@@ -27,6 +27,7 @@ For the scale-invairant MERA, see arXiv:1109.5334.
 import jax
 import jax.config
 jax.config.update("jax_enable_x64", True)
+import bestlibraryever
 import jax.numpy as np
 import tensornetwork
 from tensornetwork import contractors
